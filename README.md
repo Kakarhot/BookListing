@@ -2,7 +2,7 @@
 
 Author: Wenshuo Chen
 
-### Description
+### Description:
 
 The Book Listing app allows a user to get a list of published books on a given topic. I am using the [Google Books API](https://developers.google.com/books/docs/v1/getting_started#intro) in order to fetch results and display them to the user.
 
